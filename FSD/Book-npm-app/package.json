@@ -2,9 +2,8 @@
   "name": "book-npm-app",
   "version": "1.0.0",
   "description": "React Book Management App",
-
   "scripts": {
-    "start": "parcel index.html --port 3000",  
+    "start": "parcel index.html --port 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,7 +11,8 @@
   "dependencies": {
     "parcel": "^2.16.4",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^6.30.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.29.7",

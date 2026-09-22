@@ -1,0 +1,22 @@
+{
+  "name": "shopping-app",
+  "version": "1.0.0",
+  "description": "React Shopping App with react-router-dom",
+  "scripts": {
+    "start": "parcel index.html --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^6.30.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-react": "^7.29.7"
+  }
+}

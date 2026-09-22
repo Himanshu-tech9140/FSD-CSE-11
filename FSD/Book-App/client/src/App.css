@@ -1,0 +1,34 @@
+.book{
+  width: 250px;
+  height: 250px;
+  margin:auto;
+  padding: auto;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid red;
+
+
+}
+.header{
+  width: 100%;
+  height: 50px;
+  background-color: #f0f0f0;    
+  margin: auto;
+  text-align: center;
+}
+.footer{
+  width: 100%;
+  height: 50px;
+  background-color: #f0f0f0;    
+  margin: auto;
+  text-align: center;o
+}
+.bookstore{
+  width: 100%;
+  height: 100%;
+  background-color: #b53e3e;  
+  display: flex;
+  flex-wrap:wrap;  
+  margin: auto;
+}
